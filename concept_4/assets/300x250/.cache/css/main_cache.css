@@ -1,1 +1,28 @@
 
+
+#cta_2x {
+	left:14px;
+	top:214px;
+	width:74px;
+	height:24px;
+	background-image:url(../img/cta_2x.png);
+	background-size:74px 24px;
+}
+
+#loc_2x {
+	left:194px;
+	top:11px;
+	width:90px;
+	height:14px;
+	background-image:url(../img/loc_2x.png);
+	background-size:90px 14px;
+}
+
+#bg_2x {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:250px;
+	background-image:url(../img/bg_2x.jpg);
+	background-size:300px 250px;
+}

@@ -24,7 +24,7 @@ body { margin:0px 0px; padding:0px; }
 	top:0px;
 	width:300px;
 	height:250px;
-	background-image:url(bg_2x.jpg);
+	background-image:url(../img/bg_2x.jpg);
 	background-size:300px 250px;
 }
 /* 
@@ -110,12 +110,12 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #cta_2x {
-	left:14px;
-	top:215px;
-	width:74px;
-	height:24px;
-	background-image:url(cta_2x.png);
-	background-size:74px 24px;
+	left:15px;
+	top:214px;
+	width:70px;
+	height:23px;
+	background-image:url(../img/cta_2x.png);
+	background-size:70px 23px;
 }
 
 #circ5_2x {

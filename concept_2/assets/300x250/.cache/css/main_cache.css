@@ -1,5 +1,14 @@
 
 
+#cta_2x {
+	left:15px;
+	top:214px;
+	width:70px;
+	height:23px;
+	background-image:url(../img/cta_2x.png);
+	background-size:70px 23px;
+}
+
 #bg_2x {
 	left:0px;
 	top:0px;

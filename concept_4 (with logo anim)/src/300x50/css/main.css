@@ -1,0 +1,140 @@
+body { margin:0px 0px; padding:0px; } 
+
+* { 
+	box-sizing: Border-box;
+	-webkit-backface-visibility: hidden;
+  	-webkit-perspective: 1000px; 
+	-ms-overflow-style: hidden;
+}  
+
+#container{
+	background-color:white;
+	position:absolute;
+	overflow:hidden;
+	border: 1px solid black;
+	cursor: pointer;
+} 
+
+.sprite {
+	position:absolute;
+	background-repeat:no-repeat;
+}
+
+#bg_2x {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:50px;
+	background-image:url(bg_2x.jpg);
+	background-size:300px 50px;
+}
+
+#line1_2x {
+	left:267px;
+	top:28px;
+	width:27px;
+	height:2px;
+	background-image:url(line1_2x.png);
+	background-size:27px 2px;
+}
+
+#line2_2x {
+	left:291.5px;
+	top:28px;
+	width:2px;
+	height:10px;
+	background-image:url(line2_2x.png);
+	background-size:2px 10px;
+}
+
+#line3_2x {
+	left:267px;
+	top:36.1px;
+	width:26px;
+	height:2px;
+	background-image:url(line3_2x.png);
+	background-size:26px 2px;
+}
+
+#line4_2x {
+	left:267px;
+	top:28px;
+	width:2px;
+	height:10px;
+	background-image:url(line4_2x.png);
+	background-size:2px 10px;
+}
+
+#logoCopy_2x {
+	left:267px;
+	top:40px;
+	width:27px;
+	height:3px;
+	background-image:url(logoCopy_2x.png);
+	background-size:27px 3px;
+}
+
+#logo_2x {
+	left:269px;
+	top:30px;
+	width:22px;
+	height:6px;
+	background-image:url(logo_2x.png);
+	background-size:22px 6px;
+}
+
+#c1_2x {
+	left:6px;
+	top:12px;
+	width:55px;
+	height:26px;
+	background-image:url(c1_2x.png);
+	background-size:55px 26px;
+}
+
+
+#c3_2x {
+	left:183px;
+	top:18px;
+	width:71px;
+	height:14px;
+	background-image:url(c3_2x.png);
+	background-size:71px 14px;
+}
+
+#cta_2x {
+	left:264px;
+	top:10px;
+	width:30px;
+	height:10px;
+	background-image:url(cta_2x.png);
+	background-size:30px 10px;
+}
+
+
+
+#box_2x {
+	left:232px;
+	top:211px;
+	width:56px;
+	height:21px;
+	background-image:url(box_2x.png);
+	background-size:56px 21px;
+}
+
+#circ5_2x {
+	left:293px;
+	top:28px;
+	width:1px;
+	height:1px;
+	background-image:url(circ5_2x.png);
+	background-size:1px 1px;
+}
+
+#backup {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:50px;
+	background-image:url(backup.jpg);
+}

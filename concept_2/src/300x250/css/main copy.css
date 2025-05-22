@@ -118,14 +118,14 @@ body { margin:0px 0px; padding:0px; }
 	background-size:74px 24px;
 }
 
-#circ5_2x {
+/* #circ5_2x {
 	left:286px;
 	top:211px;
 	width:2px;
 	height:2px;
 	background-image:url(../img/circ5_2x.png);
 	background-size:2px 2px;
-}
+} */
 
 #backup {
 	left:0px;
