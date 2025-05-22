@@ -1,0 +1,132 @@
+body { margin:0px 0px; padding:0px; } 
+
+* { 
+	box-sizing: Border-box;
+	-webkit-backface-visibility: hidden;
+  	-webkit-perspective: 1000px; 
+	-ms-overflow-style: hidden;
+}  
+
+#container{
+	background-color:white;
+	position:absolute;
+	overflow:hidden;
+	border: 1px solid black;
+	cursor: pointer;
+} 
+.sprite {
+	position:absolute;
+	background-repeat:no-repeat;
+}
+
+#bg_2x {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:50px;
+	background-image:url(../img/bg_2x.jpg);
+	background-size:300px 50px;
+}
+
+#line1 {
+	left:267px;
+	top:28px;
+	width:26px;
+	height:.7px;
+	background-color: white;
+}
+#line2 {
+	left:292.7px;
+	top:28px;
+	width:.7px;
+	height:9.7px;
+	background-color: white;
+}
+#line3 {
+	left:267px;
+	top:37.2px;
+	width:26px;
+	height:.7px;
+	background-color: white;
+}
+#line4 {
+	left:267px;
+	top:28px;
+	width:.7px;
+	height:9.7px;
+	background-color: white;
+}
+
+/* END OF LINES */
+
+
+#logoCopy_2x {
+	left:267px;
+	top:40px;
+	width:28px;
+	height:3px;
+	background-image:url(../img/logoCopy_2x.png);
+	background-size:28px 3px;
+}
+
+#logo_2x {
+	left:269px;
+	top:30px;
+	width:23px;
+	height:6px;
+	background-image:url(../img/logo_2x.png);
+	background-size:23px 6px;
+}
+
+#c1_2x {
+	left:6px;
+	top:12px;
+	width:55px;
+	height:26px;
+	background-image:url(../img/c1_2x.png);
+	background-size:55px 26px;
+}
+
+#c2_2x {
+	left:67px;
+	top:12px;
+	width:58px;
+	height:26px;
+	background-image:url(../img/c2_2x.png);
+	background-size:58px 26px;
+}
+
+#loc_2x {
+	left:226px;
+	top:37px;
+	width:36px;
+	height:6px;
+	background-image:url(../img/loc_2x.png);
+	background-size:36px 6px;
+}
+
+#cta_2x {
+	left:264px;
+	top:10px;
+	width:30px;
+	height:10px;
+	background-image:url(../img/cta_2x.png);
+	background-size:30px 10px;
+}
+
+#circ5_2x {
+	left:293.5px;
+	top:28px;
+	width:1px;
+	height:1px;
+	background-image:url(../img/circ5_2x.png);
+	background-size:1px 1px;
+}
+
+#backup {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:50px;
+	background-image:url(../img/backup.jpg);
+}
