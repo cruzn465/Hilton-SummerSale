@@ -77,7 +77,7 @@ function animate(){
 
     // LOGO ANIMATION
     .from(logo_2x, 1.6, {opacity: 0, ease: Power1.easeInOut},0)
-    .from(logoCopy_2x, .4, {y:10,opacity: 0, ease: Power1.easeInOut},"-=.2")
+    .from(logoCopy, .4, {y:10,opacity: 0, ease: Power1.easeInOut},"-=.2")
     .from(circ5_2x, .3, {opacity: 0, ease: Power1.easeInOut},"-=.2")
     
     // COPY ANIMATION

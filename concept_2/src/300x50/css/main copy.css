@@ -33,39 +33,37 @@ body { margin:0px 0px; padding:0px; }
 	top:28px;
 	width:26px;
 	height:.7px;
-	background-color: white;
+	background-color: #f8f8f7;
 }
 #line2 {
 	left:292.7px;
 	top:28px;
 	width:.7px;
 	height:9.7px;
-	background-color: white;
+	background-color: #f8f8f7;
 }
 #line3 {
 	left:267px;
 	top:37.2px;
 	width:26px;
 	height:.7px;
-	background-color: white;
+	background-color: #f8f8f7;
 }
 #line4 {
 	left:267px;
 	top:28px;
 	width:.7px;
 	height:9.7px;
-	background-color: white;
+	background-color: #f8f8f7;
 }
 
 /* END OF LINES */
 
-
-#logoCopy_2x {
+#logoCopy {
 	left:267px;
 	top:40px;
 	width:28px;
 	height:3px;
-	background-image:url(../img/logoCopy_2x.png);
 	background-size:28px 3px;
 }
 
@@ -95,6 +93,25 @@ body { margin:0px 0px; padding:0px; }
 	background-image:url(../img/c2_2x.png);
 	background-size:58px 26px;
 }
+/* 
+#c2 {
+    left: 67px;
+    top: 10px;
+    width: 60px;
+    height: 26px;
+}
+#c2_1 {
+    left: 67px;
+    top: 19.5px;
+    width: 64.9px;
+    height: 26px;
+}
+#c2_2 {
+    left: 67px;
+    top: 28.1px;
+    width: 66px;
+    height: 26px;
+} */
 
 #loc_2x {
 	left:226px;
