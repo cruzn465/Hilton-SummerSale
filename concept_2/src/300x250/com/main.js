@@ -64,8 +64,7 @@ function animate(){
     //timeline animation here
     // tl = new TimelineLite()
     // tl = new TimelineLite({repeat: 3, repeatDelay: 2}); // Repeat 3xs with a 2-second delay between repetitions
-    
-    // const box = [line1_2x,line2_2x,line3_2x,line4_2x]
+
     tl 
     // .set(line3_2x, {x:-.5,scaleX: 0, transformOrigin: "right center"})
     // .set(line4_2x, {y:-1,scaleY: 0, transformOrigin: "bottom center"})

@@ -65,21 +65,21 @@ function animate(){
     // tl = new TimelineLite()
     // tl = new TimelineLite({repeat: 3, repeatDelay: 2}); // Repeat 3xs with a 2-second delay between repetitions
     
-    const box = [line1_2x,line2_2x,line3_2x,line4_2x]
+    // const box = [line1_2x,line2_2x,line3_2x,line4_2x]
     tl 
-    .set(line3_2x, {x:-.5,scaleX: 0, transformOrigin: "right center"})
-    .set(line4_2x, {y:-1,scaleY: 0, transformOrigin: "bottom center"})
+    // .set(line3_2x, {x:-.5,scaleX: 0, transformOrigin: "right center"})
+    // .set(line4_2x, {y:-1,scaleY: 0, transformOrigin: "bottom center"})
     
-    // LINE ANIMATION
-    .to(line4_2x, .6, {y:0, scaleY: 1, ease: Power1.easeInOut})
-    .from(line1_2x, .6, {width: 0, ease: Power1.easeInOut},"-=.1")
-    .from(line2_2x, .6, {height: 0, ease: Power1.easeInOut}, "-=.1")
-    .to(line3_2x, .6, {x:0, scaleX: 1, ease: Power1.easeInOut}, "-=.1")
+    // // LINE ANIMATION
+    // .to(line4_2x, .6, {y:0, scaleY: 1, ease: Power1.easeInOut})
+    // .from(line1_2x, .6, {width: 0, ease: Power1.easeInOut},"-=.1")
+    // .from(line2_2x, .6, {height: 0, ease: Power1.easeInOut}, "-=.1")
+    // .to(line3_2x, .6, {x:0, scaleX: 1, ease: Power1.easeInOut}, "-=.1")
 
-    // LOGO ANIMATION
-    .from(logo_2x, 1.6, {opacity: 0, ease: Power1.easeInOut},0)
-    .from(logoCopy_2x, .4, {y:10,opacity: 0, ease: Power1.easeInOut},"-=.2")
-    .from(circ5_2x, .3, {opacity: 0, ease: Power1.easeInOut},"-=.2")
+    // // LOGO ANIMATION
+    // .from(logo_2x, 1.6, {opacity: 0, ease: Power1.easeInOut},0)
+    // .from(logoCopy_2x, .4, {y:10,opacity: 0, ease: Power1.easeInOut},"-=.2")
+    // .from(circ5_2x, .3, {opacity: 0, ease: Power1.easeInOut},"-=.2")
     
     // COPY ANIMATION
     .staggerFrom([c1_2x,c2_2x], .7, {opacity: 0, y:10, ease: Power1.easeInOut}, .2, 0)

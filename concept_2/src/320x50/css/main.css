@@ -24,7 +24,7 @@ body { margin:0px 0px; padding:0px; }
 	top:0px;
 	width:320px;
 	height:50px;
-	background-image:url(bg_2x.jpg);
+	background-image:url(../img/bg_2x.jpg);
 	background-size:320px 50px;
 }
 
@@ -33,7 +33,7 @@ body { margin:0px 0px; padding:0px; }
 	top:28px;
 	width:27px;
 	height:2px;
-	background-image:url(line1_2x.png);
+	background-image:url(../img/line1_2x.png);
 	background-size:27px 2px;
 }
 
@@ -42,7 +42,7 @@ body { margin:0px 0px; padding:0px; }
 	top:28px;
 	width:1px;
 	height:11px;
-	background-image:url(line2_2x.png);
+	background-image:url(../img/line2_2x.png);
 	background-size:1px 11px;
 }
 
@@ -51,7 +51,7 @@ body { margin:0px 0px; padding:0px; }
 	top:37px;
 	width:27px;
 	height:2px;
-	background-image:url(line3_2x.png);
+	background-image:url(../img/line3_2x.png);
 	background-size:27px 2px;
 }
 
@@ -60,7 +60,7 @@ body { margin:0px 0px; padding:0px; }
 	top:28px;
 	width:2px;
 	height:11px;
-	background-image:url(line4_2x.png);
+	background-image:url(../img/line4_2x.png);
 	background-size:2px 11px;
 }
 
@@ -69,7 +69,7 @@ body { margin:0px 0px; padding:0px; }
 	top:40px;
 	width:28px;
 	height:3px;
-	background-image:url(logoCopy_2x.png);
+	background-image:url(../img/logoCopy_2x.png);
 	background-size:28px 3px;
 }
 
@@ -78,7 +78,7 @@ body { margin:0px 0px; padding:0px; }
 	top:30px;
 	width:23px;
 	height:6px;
-	background-image:url(logo_2x.png);
+	background-image:url(../img/logo_2x.png);
 	background-size:23px 6px;
 }
 
@@ -87,7 +87,7 @@ body { margin:0px 0px; padding:0px; }
 	top:12px;
 	width:55px;
 	height:26px;
-	background-image:url(c1_2x.png);
+	background-image:url(../img/c1_2x.png);
 	background-size:55px 26px;
 }
 
@@ -96,7 +96,7 @@ body { margin:0px 0px; padding:0px; }
 	top:12px;
 	width:58px;
 	height:26px;
-	background-image:url(c2_2x.png);
+	background-image:url(../img/c2_2x.png);
 	background-size:58px 26px;
 }
 
@@ -105,7 +105,7 @@ body { margin:0px 0px; padding:0px; }
 	top:37px;
 	width:36px;
 	height:6px;
-	background-image:url(loc_2x.png);
+	background-image:url(../img/loc_2x.png);
 	background-size:36px 6px;
 }
 
@@ -114,7 +114,7 @@ body { margin:0px 0px; padding:0px; }
 	top:10px;
 	width:30px;
 	height:10px;
-	background-image:url(cta_2x.png);
+	background-image:url(../img/cta_2x.png);
 	background-size:30px 10px;
 }
 
@@ -123,7 +123,7 @@ body { margin:0px 0px; padding:0px; }
 	top:28px;
 	width:1px;
 	height:1px;
-	background-image:url(circ5_2x.png);
+	background-image:url(../img/circ5_2x.png);
 	background-size:1px 1px;
 }
 
@@ -132,5 +132,5 @@ body { margin:0px 0px; padding:0px; }
 	top:0px;
 	width:320px;
 	height:50px;
-	background-image:url(backup.jpg);
+	background-image:url(../img/backup.jpg);
 }
