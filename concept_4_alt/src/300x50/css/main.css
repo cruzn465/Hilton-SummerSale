@@ -1,0 +1,55 @@
+body { margin:0px 0px; padding:0px; } 
+
+* { 
+	box-sizing: Border-box;
+	-webkit-backface-visibility: hidden;
+  	-webkit-perspective: 1000px; 
+	-ms-overflow-style: hidden;
+}  
+
+#container{
+	background-color:white;
+	position:absolute;
+	overflow:hidden;
+	border: 1px solid black;
+	cursor: pointer;
+} 
+.sprite {
+	position:absolute;
+	background-repeat:no-repeat;
+}
+
+#bg_2x {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:50px;
+	background-image:url(../img/bg_2x.jpg);
+	background-size:300px 50px;
+}
+
+#c1_2x {
+	left:8px;
+	top:9px;
+	width:67px;
+	height:32px;
+	background-image:url(../img/c1_2x.png);
+	background-size:67px 32px;
+}
+
+#c2_2x {
+	left:95px;
+	top:9px;
+	width:73px;
+	height:33px;
+	background-image:url(../img/c2_2x.png);
+	background-size:73px 33px;
+}
+
+#backup {
+	left:0px;
+	top:0px;
+	width:300px;
+	height:50px;
+	background-image:url(../img/backup.jpg);
+}
