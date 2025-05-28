@@ -25,62 +25,8 @@ body { margin:0px 0px; padding:0px; }
 	top:0px;
 	width:728px;
 	height:90px;
-	background-image:url(bg_2x.jpg);
+	background-image:url(../img/bg_2x.jpg);
 	background-size:728px 90px;
-}
-
-#line1_2x {
-	left:655.2px;
-	top:46px;
-	width:60px;
-	height:2px;
-	background-image:url(line1_2x.png);
-	background-size:60px 2px;
-}
-
-#line2_2x {
-	left:712.6px;
-	top:46px;
-	width:3px;
-	height:23px;
-	background-image:url(line2_2x.png);
-	background-size:3px 23px;
-}
-
-#line3_2x {
-	left:654.8px;
-	top:66.6px;
-	width:60px;
-	height:2px;
-	background-image:url(line3_2x.png);
-	background-size:60px 2px;
-}
-
-#line4_2x {
-	left:655px;
-	top:46px;
-	width:2px;
-	height:23px;
-	background-image:url(line4_2x.png);
-	background-size:2px 23px;
-}
-
-#logoCopy_2x {
-	left:656px;
-	top:72px;
-	width:60px;
-	height:6px;
-	background-image:url(logoCopy_2x.png);
-	background-size:60px 6px;
-}
-
-#logo_2x {
-	left:660px;
-	top:51px;
-	width:50px;
-	height:13px;
-	background-image:url(logo_2x.png);
-	background-size:50px 13px;
 }
 
 #c1_2x {
@@ -88,7 +34,7 @@ body { margin:0px 0px; padding:0px; }
 	top:12px;
 	width:111px;
 	height:52px;
-	background-image:url(c1_2x.png);
+	background-image:url(../img/c1_2x.png);
 	background-size:111px 52px;
 }
 
@@ -97,7 +43,7 @@ body { margin:0px 0px; padding:0px; }
 	top:75px;
 	width:187px;
 	height:11px;
-	background-image:url(loc_2x.png);
+	background-image:url(../img/loc_2x.png);
 	background-size:187px 11px;
 }
 
@@ -106,7 +52,7 @@ body { margin:0px 0px; padding:0px; }
 	top:18px;
 	width:161px;
 	height:31px;
-	background-image:url(c3_2x.png);
+	background-image:url(../img/c3_2x.png);
 	background-size:161px 31px;
 }
 
@@ -115,28 +61,8 @@ body { margin:0px 0px; padding:0px; }
 	top:55px;
 	width:68px;
 	height:23px;
-	background-image:url(cta_2x.png);
+	background-image:url(../img/cta_2x.png);
 	background-size:68px 23px;
-}
-
-
-
-#box_2x {
-	left:232px;
-	top:211px;
-	width:56px;
-	height:21px;
-	background-image:url(box_2x.png);
-	background-size:56px 21px;
-}
-
-#circ5_2x {
-	left:714px;
-	top:46px;
-	width:2px;
-	height:2px;
-	background-image:url(circ5_2x.png);
-	background-size:2px 2px;
 }
 
 #backup {
@@ -144,5 +70,5 @@ body { margin:0px 0px; padding:0px; }
 	top:0px;
 	width:728px;
 	height:90px;
-	background-image:url(backup.jpg);
+	background-image:url(../img/backup.jpg);
 }
